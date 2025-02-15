@@ -10,7 +10,7 @@ Follow these steps to set up ScreenAi locally:
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/FurkanKhann/ScreenAi.git
+   git clone https://github.com/AlexJankowski/ClipGemAi.git
 
 2. Install the required dependencies using pip:
      ```bash
