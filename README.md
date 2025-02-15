@@ -32,7 +32,7 @@ Follow these steps to set up ClipGemAi locally:
    ```bash
    win+R
    shell:startup
-   place created .exe file in the folder
+   place created .exe file in this folder
 
 ## HOW TO USE
 
