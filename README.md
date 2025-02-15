@@ -2,7 +2,7 @@
 
 ## About
 
-I was annoyed that MS PowerToys doesn't allow gemini API so I created this python to handle this.
+I was annoyed that MS PowerToys doesn't allow use of Google Gemini API so I created this python to handle this.
 
 ## Installation
 
