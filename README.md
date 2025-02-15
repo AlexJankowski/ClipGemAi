@@ -19,6 +19,9 @@ Follow these steps to set up ClipGemAi locally:
     ```bash
     GEMINI_API_KEY = "your_gemini_api_key"
     SELECTED_MODEL = "gemini-2.0-flash"  # Choose your desired model
+4. Run python
+   ```bash
+   python main.py
    
 
         
