@@ -28,7 +28,7 @@ Follow these steps to set up ClipGemAi locally:
    pip install pyinstaller
    pyinstaller --onefile --noconsole main.py
 
-** . You can further add this to your startup so it works right after you boot up your pc
+* . You can further add this to your startup so it works right after you boot up your pc
    ```bash
    win+R
    shell:startup
