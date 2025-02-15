@@ -26,6 +26,7 @@ Follow these steps to set up ClipGemAi locally:
 ## HOW TO USE
 
 Default shortcut to open ClipGemAi is shift+win+v (you can change it at the bottom of main.py)
+
 1.a Select text you want Gemini to process and use shortcut the popup should appear 
 ![image](https://github.com/user-attachments/assets/1021861f-e927-4732-92ac-2311b0fb9c98)
 
