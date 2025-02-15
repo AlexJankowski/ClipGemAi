@@ -6,7 +6,7 @@ I was annoyed that MS PowerToys doesn't allow gemini API so I created this pytho
 
 ## Installation
 
-Follow these steps to set up ScreenAi locally:  
+Follow these steps to set up ClipGemAi locally:  
 
 1. Clone the repository:  
    ```bash
