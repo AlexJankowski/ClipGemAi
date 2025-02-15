@@ -23,6 +23,17 @@ Follow these steps to set up ClipGemAi locally:
    ```bash
    python main.py
 
+*. Optionally you can copile the code to .exe
+   ```bash
+   pip install pyinstaller
+   pyinstaller --onefile --noconsole main.py
+
+**. You can further add this to your startup so it works right after you boot up your pc
+   ```bash
+   win+R
+   shell:startup
+   place created .exe file in the folder
+
 ## HOW TO USE
 
 Default shortcut to open ClipGemAi is shift+win+v (you can change it at the bottom of main.py)
